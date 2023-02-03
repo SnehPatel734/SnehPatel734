@@ -11,9 +11,8 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Josh | LinkedIn" width="40px" src="https://user-images.githubusercontent.com/66852907/216614096-93fb838d-c66a-46cb-a7f9-0f0a87ed1b7d.png" />][linkedin]
 
 
-[instagram]: https://www.instagram.com/Josh
+
 [linkedin]: https://www.linkedin.com/in/snehpatel04
