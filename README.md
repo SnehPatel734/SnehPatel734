@@ -9,7 +9,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SnehPatel734/AzureNetworkProtocols)
 - <b>Virutal Private Network</b>
 
-- <b>Pass Vault: Password Storage Software</b>
+- <b>Pass Vault: Password Storage Software [Under Development]</b>
+  - https://thepassvault.com/ 
 
 <h2>🤳Connect with me:</h2>
 
