@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SnehPatel734/TicketLifecycle)
 - <b>Microsoft Azure</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SnehPatel734/AzureNetworkProtocols)
+  - <b>Virutal Private Network</b>
+
+- <b>AWS (Amazon Web Services)</b>
   - [Configuring Active Directory wintin AWS EC2 instances](https://github.com/SnehPatel734/ActiveDirectory)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols within Azure](https://github.com/SnehPatel734/AzureNetworkProtocols)
-- <b>Virutal Private Network</b>
 
 - <b>Pass Vault: Password Storage Software [Under Development]</b>
   - https://thepassvault.com/ 
