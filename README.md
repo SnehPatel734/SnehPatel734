@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SnehPatel734/AzureNetworkProtocols)
-  - <b>Virutal Private Network</b>
+  - [Virutal Private Network]()
 
 - <b>AWS (Amazon Web Services)</b>
   - [Configuring Active Directory wintin AWS EC2 instances](https://github.com/SnehPatel734/ActiveDirectory)
