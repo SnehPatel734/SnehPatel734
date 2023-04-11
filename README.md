@@ -5,8 +5,10 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SnehPatel734/AzureNetworkProtocols)
 
-- <b>AWS (Amazon Web Services)</b>
-  - [Configuring Active Directory wintin AWS EC2 instances](https://github.com/SnehPatel734/ActiveDirectory)
+- <b>Pass Vault (AWS)</b>
+  - [A Personal Project: Password Manager](https://github.com/thepassvault-team/thepassvault)
+  
+  
 
 <h2>🤳Connect with me:</h2>
 
