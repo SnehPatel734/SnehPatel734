@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <b>Platform Engineer</b> • <b>Cloud Enthusiast</b> ☁️<br/>
+  <b>Platform Engineer</b> • <b>Everything Tech Related Enthusiast</b> ☁️<br/>
   Building reliable, secure infrastructure and the tooling that helps teams ship faster.
 </p>
 
